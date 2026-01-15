@@ -2,7 +2,7 @@
 
 Learning things!
 
-**Stack:** Java · Python · Linux · Ubuntu · Bash · Git · GitHub · Docker · YAML
+**Stack:** 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
